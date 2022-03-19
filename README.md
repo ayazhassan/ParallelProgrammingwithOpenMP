@@ -1,0 +1,2 @@
+# ParallelProgrammingwithOpenMP
+Training Material
