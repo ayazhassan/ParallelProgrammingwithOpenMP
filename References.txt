@@ -1,3 +1,4 @@
 https://www.openmp.org/
 https://devcloud.intel.com/oneapi/get_started/hpcTrainingModules/
 https://devcloud.intel.com/oneapi/get_started/hpcTrainingModules/
+Book: Introduction to Parallel Computing - From Algorithms to Programming on State-of-the-Art Platforms by Roman Trobec et. al., Springer, 2018
